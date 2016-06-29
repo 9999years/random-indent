@@ -1,4 +1,0 @@
-create string rope type
-read file in 12 bytes at a time to the rope
-go through rope, replacing tabs with spaces/vice versa (possibly in other rope)
-write file
